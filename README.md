@@ -22,10 +22,20 @@ I lead and contribute to AI research and applied data science initiatives that b
 - [TerraVista](https://github.com/rabeshi/TerraVista)  
   Applied data/web project demonstrating product thinking and implementation.
 
-## LLM, AI Safety, and Evaluation Ecosystem (Forks)
-- Evaluation: [lm-evaluation-harness](https://github.com/rabeshi/lm-evaluation-harness), [inspect_ai](https://github.com/rabeshi/inspect_ai), [lighteval](https://github.com/rabeshi/lighteval), [helm](https://github.com/rabeshi/helm)
-- Safety and red teaming: [PyRIT](https://github.com/rabeshi/PyRIT), [garak](https://github.com/rabeshi/garak), [llm-guard](https://github.com/rabeshi/llm-guard), [ailuminate](https://github.com/rabeshi/ailuminate)
-- Robustness and security: [adversarial-robustness-toolbox](https://github.com/rabeshi/adversarial-robustness-toolbox), [counterfit](https://github.com/rabeshi/counterfit), [giskard-oss](https://github.com/rabeshi/giskard-oss)
+## Curated ML Safety and Evaluation Repositories (Forks)
+I maintain this curated set of forked open-source repositories for learning, benchmarking, safety testing, and red teaming workflows.
+
+- [lm-evaluation-harness](https://github.com/rabeshi/lm-evaluation-harness) - LLM benchmark harness
+- [inspect_ai](https://github.com/rabeshi/inspect_ai) - structured evaluation framework for LLM testing
+- [lighteval](https://github.com/rabeshi/lighteval) - lightweight evaluation workflows
+- [helm](https://github.com/rabeshi/helm) - holistic language model evaluation
+- [PyRIT](https://github.com/rabeshi/PyRIT) - red teaming and risk identification for LLM systems
+- [garak](https://github.com/rabeshi/garak) - LLM vulnerability scanning
+- [llm-guard](https://github.com/rabeshi/llm-guard) - prompt and output security controls
+- [ailuminate](https://github.com/rabeshi/ailuminate) - safety-focused LLM assessments
+- [adversarial-robustness-toolbox](https://github.com/rabeshi/adversarial-robustness-toolbox) - adversarial ML robustness
+- [counterfit](https://github.com/rabeshi/counterfit) - AI security testing toolkit
+- [giskard-oss](https://github.com/rabeshi/giskard-oss) - ML model testing and quality checks
 
 ## Technical Stack
 `Python` `Pandas` `NumPy` `scikit-learn` `XGBoost` `TensorFlow` `statsmodels` `SQL` `Jupyter` `Git`
@@ -41,4 +51,3 @@ I lead and contribute to AI research and applied data science initiatives that b
 ## Connect
 - LinkedIn: [https://www.linkedin.com/in/georgeobaido/](https://www.linkedin.com/in/georgeobaido/)
 - Email: rabeshi.george@gmail.com
-
