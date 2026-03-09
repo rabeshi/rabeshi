@@ -1,4 +1,4 @@
-# Hi, I'm George Obaido!
+# Hi, I'm George Rabeshi Obaido!
 
 Researcher and Leader focused on Machine Learning and AI for real-world impact across climate risk, legal intelligence, and predictive analytics.
 
