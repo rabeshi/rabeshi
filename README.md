@@ -1,6 +1,6 @@
 # Hi, I'm George Obaido!
 
-Researcher and Leader focused on Machine Learning and AI for real-world impact across climate risk, legal intelligence, and predictive analytics.
+Researcher and Leader focused on Machine Learning and AI for real-world impact across healthcare, education, and predictive analytics.
 
 ## About Me
 I lead and contribute to AI research and applied data science initiatives that bridge rigorous methodology with practical deployment. My work emphasizes reproducibility, interpretability, and measurable outcomes.
